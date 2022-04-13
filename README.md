@@ -1,1 +1,3 @@
 # JSON-Power-DB
+This file consists of an HTML file called index.html created using Netbeans IDE and JSON Power DB libraries already created on the website. There was some technical issue while uploading the whole project from Netbeans to Github so I am uploading only the main code file which can be run to open the Bootstrap website. The values entered on the run website can be seen in the Visualise section of JSON Power DB user website http://api.login2explore.com:5577/user/dashboard.html .
+Talend API Tester has been used to create the functions in the webform and to upload the date to the database.
